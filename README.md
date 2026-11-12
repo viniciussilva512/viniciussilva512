@@ -86,11 +86,6 @@ Projeto de visão computacional utilizando **Python + OpenCV + Arduino**, capaz 
 
 ---
 
-### 🍔 Food Manager
-
-Projeto de gerenciamento desenvolvido explorando arquitetura backend, banco de dados e ORM.
-
-**Tecnologias:** Node.js, NestJS, PostgreSQL e Prisma.
 
 ---
 
